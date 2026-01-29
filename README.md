@@ -144,3 +144,22 @@ subscription-churn-analytics/
 
 ## 💡 Key Takeaway
 This project demonstrates how **machine learning can be applied to real subscription businesses** to predict churn, understand user behavior, and support retention decisions in an **interpretable and actionable way**.
+---
+
+## 📊 Interactive BI Dashboard (Tableau)
+
+The machine learning outputs from this project were integrated into an interactive Tableau dashboard to enable business-focused exploration of churn drivers, user behavior, and retention insights.
+
+🔗 **View the Tableau Dashboard:**  
+https://public.tableau.com/views/Netflix-CustomerChurnEngagementAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+The dashboard provides:
+- Executive KPIs (Total Users, Churn Rate, High-Risk Users)
+- Churn trends over time
+- Geographic churn distribution
+- Churn by subscription plan
+- Behavioral risk segmentation
+- Engagement and spend vs churn analysis
+
+This dashboard is designed for **non-technical stakeholders**, translating ML outputs into actionable, decision-ready insights.
+
